@@ -1,9 +1,9 @@
-Building FooCoin
+Building ScamCoin
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building scamcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of ScamCoin.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building scamcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of ScamCoin.
